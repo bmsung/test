@@ -2,7 +2,7 @@
 
 int main(){
 
-	printf("study?\n");
+	printf("study2\n");
 
 	return 0;
 }
